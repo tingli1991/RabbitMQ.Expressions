@@ -1,0 +1,15 @@
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\obj\Debug\RabbitMQ.Plugin.InvestHandler.csprojResolveAssemblyReference.cache
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\RabbitMQ.Plugin.InvestHandler.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\RabbitMQ.Plugin.InvestHandler.pdb
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\log4net.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\RabbitMQ.Expressions.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\RabbitMQ.Expressions.pdb
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\log4net.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\RabbitMQ.Client.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\obj\Debug\RabbitMQ.Plugin.InvestHandler.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.InvestHandler\obj\Debug\RabbitMQ.Plugin.InvestHandler.pdb

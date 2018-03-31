@@ -1,0 +1,10 @@
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\RabbitMQ.Expressions.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\RabbitMQ.Expressions.pdb
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\RabbitMQ.Client.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\bin\Debug\RabbitMQ.Client.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\obj\Debug\RabbitMQ.Expressions.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Expressions\obj\Debug\RabbitMQ.Expressions.pdb

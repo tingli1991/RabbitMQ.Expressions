@@ -1,0 +1,15 @@
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\obj\Debug\RabbitMQ.Plugin.SmsHandler.csprojResolveAssemblyReference.cache
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\RabbitMQ.Plugin.SmsHandler.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\RabbitMQ.Plugin.SmsHandler.pdb
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\log4net.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\RabbitMQ.Expressions.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\RabbitMQ.Client.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\RabbitMQ.Expressions.pdb
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\log4net.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\RabbitMQ.Client.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\obj\Debug\RabbitMQ.Plugin.SmsHandler.dll
+C:\Users\litin\Desktop\学习资料\RabbitMQ.Expressions\RabbitMQ.Plugin.SmsHandler\obj\Debug\RabbitMQ.Plugin.SmsHandler.pdb
